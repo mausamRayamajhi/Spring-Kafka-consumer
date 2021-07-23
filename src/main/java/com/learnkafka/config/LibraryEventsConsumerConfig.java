@@ -5,6 +5,6 @@ import org.springframework.kafka.annotation.EnableKafka;
 
 @Configuration
 @EnableKafka
-public class LibraryEventsConsumerConfig {
+public class  LibraryEventsConsumerConfig {
 
 }
